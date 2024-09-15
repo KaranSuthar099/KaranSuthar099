@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 👋, I'm Karan Suthar</h1>
-<h3 align="center">A passionate about Mobile App Development.</h3>
+<h3 align="center">Passionate about Mobile App Development.</h3>
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose**
 
